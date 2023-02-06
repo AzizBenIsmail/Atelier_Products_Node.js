@@ -1,0 +1,19 @@
+{
+  "name": "atelierproducts4twin6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedDerbali/atelierProducts4Twin6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedDerbali/atelierProducts4Twin6/issues"
+  },
+  "homepage": "https://github.com/MohamedDerbali/atelierProducts4Twin6#readme"
+}
