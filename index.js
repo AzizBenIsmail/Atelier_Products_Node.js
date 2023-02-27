@@ -2,15 +2,10 @@
 // Product {
 //     libelle,prix,qantite
 // }
-const {
-  addProduct,
-  updateProduct,
-  sortProducts,
-  printProducts,
-  deleteProduct,
-} = require("./services");
+const {addProduct,updateProduct,sortProducts,printProducts,deleteProduct,} = require("./services");
 
 let products = [];
+
 addProduct(
   {
     libelle: "ballon",
